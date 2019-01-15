@@ -1,9 +1,4 @@
-import java.sql.SQLOutput;
-import java.util.Scanner;
-
-
-public class year {
-
+public class for5 {
     public static void main(String[] args) {
         int[] a = {1, 5, 8, 9};
         String str="no";
@@ -14,4 +9,3 @@ public class year {
 
     }
 }
-
